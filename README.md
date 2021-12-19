@@ -31,9 +31,8 @@ def gcd():
     print("GCD of two numbers is:",gcd_recursive(n,m))
 */
 ```
-
 ## Output:
-![GitHub Logo](GCD answer.png)
+![GitHub Logo](g.png)
 
 
 ## Result:
